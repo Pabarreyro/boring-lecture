@@ -1,0 +1,15 @@
+div {
+  border: 2px black;
+}
+
+.intro h2{
+  color: DodgerBlue;
+}
+
+.intro p{
+  font-style: italic;
+}
+
+.intro img{
+  width: 300px;
+}
